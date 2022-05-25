@@ -1,2 +1,3 @@
-print(2+1)
-print("A")
+a=1
+a+=5
+print(a)
